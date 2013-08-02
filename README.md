@@ -7,5 +7,5 @@ This document is made by [gitfab](http://gitfab.org)
 
 [superstyler.ai](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/superstyler.ai)
 
-![superstyler.jpg](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/superstyler.jpg)
+[MakerPartyLogo.eps](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/MakerPartyLogo.eps)
 ---
