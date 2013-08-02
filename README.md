@@ -9,7 +9,7 @@ This document is made by [gitfab](http://gitfab.org)
 
 [MakerPartyLogo.eps](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/MakerPartyLogo.eps)
 
-![MakerPartyLogo.jpg](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/MakerPartyLogo.jpg)
-
 ![makerparty_00.jpg](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/makerparty_00.jpg)
+
+![MakerPartyLogo.jpg](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/MakerPartyLogo.jpg)
 ---
