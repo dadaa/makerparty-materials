@@ -6,6 +6,12 @@ This document is made by [gitfab](http://gitfab.org)
 
 ![macbook.JPG](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/macbook.JPG)
 ---
+#素材URL
+- [https://ja.etherpad.mozilla.org/makerparty-ja2013-materials](https://ja.etherpad.mozilla.org/makerparty-ja2013-materials)
+- [Creative Commons Search](http://search.creativecommons.org/)
+- [フォクすけ](http://foxkeh.jp/downloads/materials/)
+- [無料のイラスト素材配布サイト](http://matome.naver.jp/odai/2135235191522078201)
+---
 #キャラクター系動画素材
 <div style="background-color: black">
 <iframe width="560" height="315" src="//www.youtube.com/embed/vOyrh0DKpkc" frameborder="0" allowfullscreen></iframe>
@@ -45,9 +51,6 @@ This document is made by [gitfab](http://gitfab.org)
 <iframe width="560" height="315" src="//www.youtube.com/embed/AgsLSvygwys" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/pujgx4tiNx8" frameborder="0" allowfullscreen></iframe>
----
-#参考URL
-[https://ja.etherpad.mozilla.org/makerparty-ja2013-materials](https://ja.etherpad.mozilla.org/makerparty-ja2013-materials)
 ---
 #ステッカー
 
