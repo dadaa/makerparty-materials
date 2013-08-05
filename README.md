@@ -12,19 +12,8 @@ This document is made by [gitfab](http://gitfab.org)
 - [フォクすけ](http://foxkeh.jp/downloads/materials/)
 - [無料のイラスト素材配布サイト](http://matome.naver.jp/odai/2135235191522078201)
 ---
-#ステッカー
-
-
-[superstyler.ai](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/superstyler.ai)
-
-[MakerPartyLogo.eps](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/MakerPartyLogo.eps)
-
-[makerparty_00.jpg](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/makerparty_00.jpg)
-
-[MakerPartyLogo.jpg](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/MakerPartyLogo.jpg)
----
-＜キャラクター系＞
-
+# キャラクター系
+<iframe width="560" height="315" src="//www.youtube.com/embed/vOyrh0DKpkc" frameborder="0" allowfullscreen></iframe>
 - [走るかめっ太くん](http://youtu.be/vOyrh0DKpkc)
 - [踊るかめっ太くん](http://youtu.be/MqZr8VXULc0)
 - [かめっ太　目をぱちぱち　辺りを見回す](http://youtu.be/_24GdK41LW0)
@@ -41,11 +30,21 @@ This document is made by [gitfab](http://gitfab.org)
 - [プカポワ　笑顔でパタパタ（左向き）](http://youtu.be/tEBb1MdCUbc)
 - [たーちゃん　ケータイをかけている　](http://youtu.be/QvmYNCDxC_8)
 - [うさじい　座って腕組み](http://youtu.be/ukpuPcHQ1nY)
-
-http://www.nhk.or.jp/creative/material/category/20/list_001.html
-
-＜恐竜＞
+---
+# 恐竜
+<iframe width="560" height="315" src="//www.youtube.com/embed/AgsLSvygwys" frameborder="0" allowfullscreen></iframe>
 - [カルノタウルスに追われるサルタサウルス](http://youtu.be/AgsLSvygwys)
 - [サウロスクスがイスチグアラスティアを襲う](http://youtu.be/pujgx4tiNx8)
 
+---
+#ステッカー
+
+
+[superstyler.ai](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/superstyler.ai)
+
+[MakerPartyLogo.eps](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/MakerPartyLogo.eps)
+
+[makerparty_00.jpg](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/makerparty_00.jpg)
+
+[MakerPartyLogo.jpg](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/MakerPartyLogo.jpg)
 ---
