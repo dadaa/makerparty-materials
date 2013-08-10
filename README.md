@@ -13,7 +13,7 @@ This document is made by [gitfab](http://gitfab.org)
 - [無料のイラスト素材配布サイト](http://matome.naver.jp/odai/2135235191522078201)
 ---
 # キャラクター系
-<iframe width="560" height="315" src="//www.youtube.com/embed/vOyrh0DKpkc" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/vOyrh0DKpkc" allowfullscreen="" frameborder="0" height="315" width="560"></iframe>
 - [走るかめっ太くん](http://youtu.be/vOyrh0DKpkc)
 - [踊るかめっ太くん](http://youtu.be/MqZr8VXULc0)
 - [かめっ太　目をぱちぱち　辺りを見回す](http://youtu.be/_24GdK41LW0)
@@ -32,7 +32,7 @@ This document is made by [gitfab](http://gitfab.org)
 - [うさじい　座って腕組み](http://youtu.be/ukpuPcHQ1nY)
 ---
 # 恐竜
-<iframe width="560" height="315" src="//www.youtube.com/embed/AgsLSvygwys" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/AgsLSvygwys" allowfullscreen="" frameborder="0" height="315" width="560"></iframe>
 - [カルノタウルスに追われるサルタサウルス](http://youtu.be/AgsLSvygwys)
 - [サウロスクスがイスチグアラスティアを襲う](http://youtu.be/pujgx4tiNx8)
 
@@ -47,4 +47,12 @@ This document is made by [gitfab](http://gitfab.org)
 [makerparty_00.jpg](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/makerparty_00.jpg)
 
 [MakerPartyLogo.jpg](https://raw.github.com/dadaa/makerparty-materials/master/gitfab/resources/MakerPartyLogo.jpg)
+---
+#サウンド
+
+* [https://soundcloud.com/hrl7/sample1](https://soundcloud.com/hrl7/sample1)
+* [https://soundcloud.com/hrl7/sample2](https://soundcloud.com/hrl7/sample2)
+* [https://soundcloud.com/hrl7/sample3](https://soundcloud.com/hrl7/sample3)
+* [https://soundcloud.com/hrl7/test](https://soundcloud.com/hrl7/test)
+
 ---
